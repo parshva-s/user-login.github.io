@@ -6,6 +6,9 @@ body {
     margin: auto;  
     text-align: center;
 }
+.para5 {
+    font-weight: 500;
+}
 .div1{ 
     border: 2px solid purple;
     border-radius: 20px;
